@@ -1,7 +1,7 @@
 const Invite = ({
     title,
     explanation,
-    entity
+    entityType
 }) => {
     return <div>invitation</div>
 }
